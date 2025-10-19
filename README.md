@@ -4,10 +4,10 @@
 
 **⚙️ Features**
 
-_=>Runs user code in multiple programming languages using Docker containers
+=>_Runs user code in multiple programming languages using Docker containers_
 
-=>Connects with Texterio’s frontend via REST APIs for code execution and result delivery
+=>_Connects with Texterio’s frontend via REST APIs for code execution and result delivery_
 
-=>Isolates user code to prevent cross-session access or security risks
+=>_Isolates user code to prevent cross-session access or security risks_
 
-=>Handles runtime errors and captures output to send back to the browser_
+=>_Handles runtime errors and captures output to send back to the browser_
